@@ -53,8 +53,7 @@ The primary objective of this project is to develop an accurate and efficient sp
 This project is open-source and available under the MIT License.
 
 ## Contributors
-- **An Tran** (Project Lead)
-- Team Members (if applicable)
+- Brian Ong
 
 For any inquiries or contributions, feel free to reach out!
 
