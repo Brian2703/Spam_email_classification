@@ -1,0 +1,21 @@
+# Machine Learning & NLP Libraries
+scikit-learn
+pandas
+numpy
+nltk
+spacy
+tensorflow
+torch
+
+# API & Web Frameworks
+fastapi
+uvicorn
+
+# Jupyter Notebook
+notebook
+jupyter
+
+# Other Utilities
+tqdm
+matplotlib
+seaborn
